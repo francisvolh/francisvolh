@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @francisvolh PhD Candidate at McGill University, working on movement ecology and niche segragation, particularly of seabirds.  
+- 👀 I’m interested in seabirds foraging movements, or any vertebrate that moves along the globe. 
+- 🌱 I’m currently learning Bayesian stats / models
+- 💞️ I’m looking to collaborate on any movement ecology projects
+- 📫 How to reach me: francis.vanoordtlahoz@mail.mcgill.ca
