@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francisvolh Climate Change Analysit at Natural Resources Canada - Northern Forestry Centre (NoFC)
+- 👋 Hi, I’m @francisvolh, Climate Change Analyst at Natural Resources Canada - Northern Forestry Centre (NoFC)
 - Former postodoctoral researcher at McGill University working on spatial analysis for the Canadian Biodiversity Network initiative.
 - PhD research at McGill University, working on movement ecology and niche segragation, particularly of seabirds.  
 - 👀 I’m interested in biodiversity, seabird foraging movements, or tracks of any vertebrate that moves around the globe. 
